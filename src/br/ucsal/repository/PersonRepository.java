@@ -7,9 +7,9 @@ public class PersonRepository {
 
 	private Map<String, String> base;
 	
-	public boolean autenticar(String login, String senha) {
-		
-	}
+	//public boolean autenticar(String login, String senha) {
+	//	
+	//}
 	
 	private Map base(String senha) {
 		
